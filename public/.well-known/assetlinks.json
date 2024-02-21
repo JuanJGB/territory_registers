@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.web.territory_registers.twa",
+      "sha256_cert_fingerprints": [
+        "DD:0C:29:D3:44:DE:37:32:1A:AC:72:66:C5:E9:F1:02:FE:D1:3C:52:AA:D1:6D:23:63:C1:98:25:CE:68:5F:0E",
+        "E1:9E:1C:01:E4:6E:F6:9F:14:89:58:9B:0F:59:9B:DA:6F:7C:2C:0F:1E:2E:11:CA:F1:93:ED:50:FE:EF:F4:CE"
+      ]
+    }
+  }
+]
